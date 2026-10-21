@@ -3,7 +3,7 @@
 My solution to Part 1 of the [Turbin3 Q4 2026 Builders Cohort prerequisite](https://prereq.turbin3.org/#part1): the [pre-req-vault](https://github.com/ShrinathNR/pre-req-vault) Anchor program, with `withdraw` extended to CPI into the Turbin3 registration program and record my GitHub username.
 
 - **Diagram:** [`docs/architecture.svg`](docs/architecture.svg) ([PNG](docs/architecture.png))
-- **Video:** _link coming_
+- **Video:** https://youtu.be/oJjBEmXePUk
 
 ![Architecture diagram](docs/architecture.svg)
 
